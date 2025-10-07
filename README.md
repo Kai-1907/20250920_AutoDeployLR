@@ -1,10 +1,10 @@
-# 🎯 簡單線性回歸示範 (CRISP-DM 流程)
+# 線性回歸示範 (CRISP-DM 流程)
 
 本專案示範如何依據 CRISP-DM 流程，建立簡單線性回歸模型，並透過 Streamlit 部署成互動式網頁應用。
 
 ---
 
-## 📘 CRISP-DM 步驟說明
+##  CRISP-DM 步驟說明
 
 1. **Business Understanding**  
    了解問題：用簡單線性模型 y = ax + b 模擬資料並擬合。
@@ -26,21 +26,21 @@
 
 ---
 
-## ⚙️ 安裝與執行
+##  安裝與執行
 
-### 1️⃣ 安裝套件
+### 1️ 安裝套件
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️⃣ 本地執行
+### 2️ 本地執行
 ```bash
 streamlit run app.py
 ```
 
 ---
 
-## 🌐 部署至 Streamlit Cloud
+##  部署至 Streamlit Cloud
 
 1. 建立 GitHub Repo，例如  
    **20250920_AutoDeployLR**
