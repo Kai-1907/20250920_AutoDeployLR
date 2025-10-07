@@ -5,8 +5,9 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
 
+st.title("線性回歸示範 (CRISP-DM 流程)")
 # ---- CRISP-DM Step 1: Business Understanding ----
-st.title("🎯 簡單線性回歸示範 (CRISP-DM 流程)")
+st.header("Step 1: Business Understanding")
 st.write("本程式依據 CRISP-DM 流程，示範如何產生模擬資料並建立簡單線性回歸模型。")
 
 # ---- Step 2: Data Understanding ----
