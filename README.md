@@ -64,7 +64,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 作者
+##  作者
 - 專案名稱：`20250920_AutoDeployLR`
 - 製作人：朱仕凱
 - 課程作業：HW1 - CRISP-DM 線性回歸
